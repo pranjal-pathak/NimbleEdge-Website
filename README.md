@@ -1,8 +1,40 @@
-# React + Vite
+# 🧠 NimbleEdge Website – AI Startup Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Interactive, responsive website built for **NimbleEdge**, a seed-funded AI startup. Developed with **React, Tailwind CSS, and Framer Motion**, featuring smooth animations, modular components, and dynamic UI elements.
 
-Currently, two official plugins are available:
+## ✨ Features
+- 🚀 **Modern UI/UX** – Custom-built feature cards, interactive flow diagrams, and animated carousels
+- 📩 **Email Integration** – Contact form powered by **EmailJS** for direct inquiries
+- ⚡ **Optimized Performance** – Deployed on **Vercel** for fast loading and reliable hosting
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠 Tech Stack
+- **Frontend:** React, Tailwind CSS, Framer Motion
+- **Email Service:** EmailJS
+- **Deployment:** Vercel
+
+## 🚀 Getting Started
+### Prerequisites
+Ensure you have **Node.js** and **npm** installed on your machine.
+
+### Installation
+```sh
+# Clone the repository
+git clone https://github.com/YOUR_USERNAME/nimbleedge-website.git
+
+# Navigate to project directory
+cd nimbleedge-website
+
+# Install dependencies
+npm install
+```
+
+### Running the Project
+```sh
+npm start
+```
+The website should now be running at `http://localhost:5173/`.
+
+## 🔗 Live Demo
+[Hosted Project Link](https://nimble-edge.vercel.app/)
+
+
